@@ -1,0 +1,16 @@
+C:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\bin\Debug\DrankAutomaatLib.dll
+C:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\bin\Debug\DrankAutomaatLib.pdb
+C:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.csprojResolveAssemblyReference.cache
+C:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.dll
+C:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.pdb
+D:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.csprojResolveAssemblyReference.cache
+D:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.dll
+D:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.pdb
+D:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\bin\Debug\DrankAutomaatLib.dll
+D:\cursusCsharp\DrankAutomaat\DrankAutomaatLib\bin\Debug\DrankAutomaatLib.pdb
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\DrankAutomaatLib\bin\Debug\DrankAutomaatLib.dll
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\DrankAutomaatLib\bin\Debug\DrankAutomaatLib.pdb
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.csprojAssemblyReference.cache
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.csproj.CoreCompileInputs.cache
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.dll
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\DrankAutomaatLib\obj\Debug\DrankAutomaatLib.pdb

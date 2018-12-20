@@ -1,0 +1,52 @@
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\WpfDrankAutomaat.exe.config
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\WpfDrankAutomaat.exe
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\WpfDrankAutomaat.pdb
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.csprojResolveAssemblyReference.cache
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\MainWindow.g.cs
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\App.g.cs
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat_MarkupCompile.cache
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat_MarkupCompile.lref
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\MainWindow.baml
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.g.resources
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.Properties.Resources.resources
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.csproj.GenerateResource.Cache
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.exe
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.pdb
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\DrankAutomaatLib.dll
+C:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\DrankAutomaatLib.pdb
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\WpfDrankAutomaat.exe.config
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.exe
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.pdb
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\WpfDrankAutomaat.exe
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\WpfDrankAutomaat.pdb
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\DrankAutomaatLib.dll
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\DrankAutomaatLib.pdb
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.csprojResolveAssemblyReference.cache
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\MainWindow.g.cs
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\App.g.cs
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat_MarkupCompile.cache
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat_MarkupCompile.lref
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\MainWindow.baml
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.g.resources
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.Properties.Resources.resources
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.csproj.GenerateResource.Cache
+D:\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.Resource2.resources
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\WpfDrankAutomaat.exe.config
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.exe
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.pdb
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\WpfDrankAutomaat.exe
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\WpfDrankAutomaat.pdb
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\DrankAutomaatLib.dll
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\bin\Debug\DrankAutomaatLib.pdb
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.csprojAssemblyReference.cache
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\MainWindow.g.cs
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\App.g.cs
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat_MarkupCompile.cache
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat_MarkupCompile.lref
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\MainWindow.baml
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.g.resources
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.Properties.Resources.resources
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.Resource2.resources
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.csproj.GenerateResource.cache
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.csproj.CoreCompileInputs.cache
+D:\HBO5_Eerste jaar\cursusCsharp\DrankAutomaat\WpfDrankAutomaat\obj\Debug\WpfDrankAutomaat.csproj.CopyComplete
